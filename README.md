@@ -7,7 +7,7 @@ This solution helps to download images from google.
 # Instructions:
 1) Open browser and search the images you want (search on google by text or google lens)
 2) Open Console in the browser
-3) Paste javascript the content "javascript" inside de Console
+3) Paste javascript content "javascript" inside de Console
 4) Click ENTER and wait the javascript download one image per time.
 
 # -- PORTUGUES --
