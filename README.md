@@ -1,5 +1,4 @@
-# download_images_browser
-Download imagens from google
+Download images from google
 
 
 This solution helps to download images from google.
