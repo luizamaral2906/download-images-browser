@@ -4,13 +4,13 @@ Download imagens from google
 
 This solution helps to download images from google.
 
-#Steps:
+# Instructions:
   a) Open browser and search the images you want (search on google by text or google lens)
   b) Open Console in the browser
   c) Paste javascript the content "javascript" inside de Console
   d) Click ENTER and wait the javascript download one image per time.
 
--- PORTUGUES --
+# -- PORTUGUES --
 Esta solução ajuda no processo de download de arquivos do browser.
 Foi testado com google e google lens.
 
